@@ -10,6 +10,8 @@
       <change afterPath="$PROJECT_DIR$/client/src/redux/constants.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/redux/reducer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
@@ -22,7 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
   </component>
   <component name="ProjectId" id="296jublujaLY2x9HN1OpDtGafRy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652440652057</updated>
-      <workItem from="1652440653124" duration="1908000" />
+      <workItem from="1652440653124" duration="2162000" />
     </task>
     <servers />
   </component>
